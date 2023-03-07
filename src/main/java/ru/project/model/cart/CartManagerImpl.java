@@ -16,7 +16,7 @@ public class CartManagerImpl implements CartManager {
                 "show - show the products in the cart\n" +
                 "exit - close console");
         System.out.println();
-        System.out.println("Список доступных продуктов:\n" + "id = 1, Milk\n" +
+        System.out.println("List products:\n" + "id = 1, Milk\n" +
                 "id = 2, Bread\n" +
                 "id = 3, Meat\n" +
                 "id = 4, Apple\n" +
