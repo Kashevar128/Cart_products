@@ -5,10 +5,10 @@
 
 Запуск приложения:
 
-git https://github.com/Kashevar128/Cart_products.git
-cd Cart_products
-mvn clean package
-java -jar target/Cart_products-1.0-SNAPSHOT-jar-with-dependencies.jar
+1. git clone https://github.com/Kashevar128/Cart_products.git
+2. cd Cart_products
+3. mvn clean package
+4. java -jar target/Cart_products-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 Использованные технологии:
 
